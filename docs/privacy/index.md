@@ -63,4 +63,4 @@ Privacy Policy URL on its App Store page.
 
 For help or a privacy question, email
 [joeycato+mywinenotes@gmail.com](mailto:joeycato+mywinenotes@gmail.com) or visit
-the [Support page](https://joeycato.github.io/wine-notes-ios-support/support/).
+the [Support page](https://github.com/joeycato/wine-notes-ios-support/blob/main/docs/support/index.md).

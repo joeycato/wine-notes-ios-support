@@ -17,4 +17,4 @@ For a non-sensitive bug report or feature request, you can also
 [open a GitHub issue](https://github.com/joeycato/wine-notes-ios-support/issues/new).
 GitHub issues are public.
 
-[Read the Privacy Policy](https://joeycato.github.io/wine-notes-ios-support/privacy/).
+[Read the Privacy Policy](https://github.com/joeycato/wine-notes-ios-support/blob/main/docs/privacy/index.md).
